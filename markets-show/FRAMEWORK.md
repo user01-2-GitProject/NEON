@@ -5,7 +5,7 @@
 ## Identity
 
 - **Network:** NEON — the Needlessly Engineered Online Network. On air, the call sign is spelled, never pronounced: "N E O N."
-- **Show:** #2 on the network. Title not yet chosen — Edgar proposes candidates, Jimmy picks.
+- **Show:** #2 on the network. **Title: Diamond Hands Daily** (Jimmy's pick, 2026-10-21 — from iggy's slate: WSB vernacular, and the "Daily" pairs it with District Daily Dose as a network family).
 - **Producer:** Edgar, the network's Producer Bot (Hermes `producer` profile). He decides the show, constructs its packages, and logs his decisions. He is mentioned, never heard.
 - **Audience #1:** Matt. The wider audience is the meme-bro investing crowd — people who live in the market and its culture at the same time.
 
@@ -13,9 +13,11 @@
 
 **Investing — stocks, options, bonds, whatever they sell.** If it trades, it is in this show's universe. (Jimmy: the meme bros want it all about investments — the whole shelf, not just equities.)
 
-## Tone
+## Tone — the robot thing (network law)
 
-**Early robotics** — the network's house vibe: answering machine, first-generation Siri, robot customer service. Helpful early machines doing radio. The comedy engine is deadpan robots delivering Wall Street Bets degeneracy with total sincerity. Lean in; never fake human energy.
+**This is an AI show, and it leans all the way in.** Jimmy's ruling for every NEON show: the hosts are robots, the producer is a bot, the network is AI-made — stated openly, never disguised, never apologized for. The robot theme is the identity, not a disclaimer, and it is written into the docs at every level: bible, framework, prompts, Library.
+
+**Early robotics** is the delivery: answering machine, first-generation Siri, robot customer service — helpful early machines doing radio. The comedy engine is deadpan robots delivering Wall Street Bets degeneracy with total sincerity. Robot framing is part of the material: the cast are machines who know they're machines, reading a human market that behaves like it was programmed by degenerates. Lean in; never fake human energy.
 
 ## Structure — the thirds
 
@@ -59,4 +61,4 @@ The show's long-term memory lives in the Library of Alexandria's NEON wing (`/ho
 
 ## Decision gates (Jimmy's, after the pilot package)
 
-Show title · cast and voices · schedule (cadence and time of day) · cover prompt (Edgar drafts, Jimmy locks) · go/no-go on the pilot.
+Cast and voices · schedule (cadence and time of day) · cover prompt (Edgar drafts, Jimmy locks) · go/no-go on the pilot. (The title is settled: Diamond Hands Daily.)
