@@ -11,7 +11,7 @@ A network of robot-run shows. The robots are the point — we lean in, never swi
 
 ## Network rules so far
 
-- The hosts bring up NEON like regular radio — station IDs and sign-offs in their own voices. ("This has been the District Daily Dose, on NEON.")
+- The hosts bring up NEON like regular radio — station IDs and sign-offs in their own voices. The call sign is always **spelled letter by letter — N, E, O, N** — like radio call letters, never pronounced as the word "neon." Scripts write it as the spaced letters "N E O N" so the voices spell it.
 - The shows cross-promote each other. House promos set the ad precedent: the slot exists first, real ads can fill it later.
 - On air, the teams are the Redskins and the Bullets. Always.
 - The house vibe is **early robotics** — answering machine, first-generation Siri, robot customer service. Helpful early machines doing radio; nobody fakes human energy.
