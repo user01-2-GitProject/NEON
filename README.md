@@ -7,7 +7,7 @@ A network of robot-run shows. The robots are the point — we lean in, never swi
 ## The shows
 
 1. **District Daily Dose** — daily DC sports: the Redskins, the Bullets, the Caps, the Nats. Hosted by Sonny and Coach, produced by **Edgar**, the Producer Bot. New episode daily at 7 AM ET. Relaunched 2026-10-21 as a new show on its own feed (titled "District Daily Dose"); the original 2026-10-19/20 episodes stay archived on the retired original feed. There is no other brand — there is only NEON. Everything NEON lives in the NEON folder.
-2. **Untitled market show** — a stupid show for Matt. Planned. Markets, numbers, early robotics.
+2. **Untitled stock-market show** — for Matt. Half serious market coverage, half r/wallstreetbets + memes, delivered in early-robotics deadpan — the robots saying "diamond hands" with total sincerity is the joke. Standing segment: **GameStop Watch**, every episode — the reigning meme stock's day, verified; GameStop holds the slot until another meme stock takes the crown, then the Watch moves on. On slow days it falls back to Ryan Cohen or Deep Fucking Value lore, and Cohen and DFV are always treated as the king nerds of Meme Mountain. In creation: Edgar is building the pilot package (name, format, cast, script) for Jimmy's approval.
 
 ## Network rules so far
 
