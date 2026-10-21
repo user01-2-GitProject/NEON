@@ -27,6 +27,10 @@ Every episode holds three thirds:
 
 **History beat — Winners & Losers:** historical examples of big-time Wall Street winners and losers — the legendary trades, squeezes, and blowups — drawn from a verified bench of stories. History, labeled as history.
 
+## Length
+
+**No less than 15 minutes, no more than 30** (Jimmy's ruling) — a floor and a ceiling. (District Daily Dose is ceiling-only; this show is different.) The planned length is the sum of the thirds' material inside that band, and the thirds, the history beat, and the Watch all hold at either end of it — a short day stretches the education and history material, never pads with repetition.
+
 ## Standing segment — GameStop Watch
 
 Every episode, in the meme third's gravity well:
