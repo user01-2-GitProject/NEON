@@ -4,6 +4,7 @@ Rulings as they land, newest first. Jimmy's word is final; this file just rememb
 
 ## 2026-10-21
 
+- **There is no more "Personal Podcasts" — there is only NEON** (Jimmy's ruling, 00:22). The old feed name is retired everywhere: the network, its shows, and its feeds carry NEON branding only. The archived original feed keeps its episodes at its existing link as a historical archive; nothing new ever publishes under the old name.
 - **District Daily Dose relaunched as a NEW SHOW** (Jimmy's ruling, 00:19): the "Personal Podcasts" feed — holding the show's first two episodes — is **archived** as of today. The show now publishes to its own feed, titled **District Daily Dose**, NEON-branded, starting with today's 7 AM episode as the new show's episode 1. The 7 AM cron was patched the same night: new feed title, the locked format (spine, full slate, Vegas both-sides, 30-minute ceiling, early robotics), and the locked v6 cover prompt. Matt gets resent the new show info (new subscription links) once the feed is live.
 - **Everything NEON goes in the NEON folder** (Jimmy's ruling, 00:20): all network material — shows, documents, assets — lives under the NEON folder (Library of Alexandria wing; the GitHub bible mirrors it). No NEON material scattered in other projects' folders.
 - **Distribution: get findable** — the new feeds get submitted to the public podcast directories (Apple Podcasts Connect, Spotify for Creators) so the shows are searchable by name, not just reachable by link. Submissions happen in Jimmy's accounts, at his word.

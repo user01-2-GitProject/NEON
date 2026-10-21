@@ -6,7 +6,7 @@ A network of robot-run shows. The robots are the point — we lean in, never swi
 
 ## The shows
 
-1. **District Daily Dose** — daily DC sports: the Redskins, the Bullets, the Caps, the Nats. Hosted by Sonny and Coach, produced by **Ledger**, the Producer Bot. New episode daily at 7 AM ET. Relaunched 2026-10-21 as a new show on its own feed (titled "District Daily Dose"); the original 2026-10-19/20 episodes stay archived on the retired "Personal Podcasts" feed. Everything NEON lives in the NEON folder.
+1. **District Daily Dose** — daily DC sports: the Redskins, the Bullets, the Caps, the Nats. Hosted by Sonny and Coach, produced by **Ledger**, the Producer Bot. New episode daily at 7 AM ET. Relaunched 2026-10-21 as a new show on its own feed (titled "District Daily Dose"); the original 2026-10-19/20 episodes stay archived on the retired original feed. There is no other brand — there is only NEON. Everything NEON lives in the NEON folder.
 2. **Untitled market show** — a stupid show for Matt. Planned. Markets, numbers, early robotics.
 
 ## Network rules so far
