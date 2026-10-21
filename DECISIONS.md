@@ -4,6 +4,9 @@ Rulings as they land, newest first. Jimmy's word is final; this file just rememb
 
 ## 2026-10-21
 
+- **District Daily Dose relaunched as a NEW SHOW** (Jimmy's ruling, 00:19): the "Personal Podcasts" feed — holding the show's first two episodes — is **archived** as of today. The show now publishes to its own feed, titled **District Daily Dose**, NEON-branded, starting with today's 7 AM episode as the new show's episode 1. The 7 AM cron was patched the same night: new feed title, the locked format (spine, full slate, Vegas both-sides, 30-minute ceiling, early robotics), and the locked v6 cover prompt. Matt gets resent the new show info (new subscription links) once the feed is live.
+- **Everything NEON goes in the NEON folder** (Jimmy's ruling, 00:20): all network material — shows, documents, assets — lives under the NEON folder (Library of Alexandria wing; the GitHub bible mirrors it). No NEON material scattered in other projects' folders.
+- **Distribution: get findable** — the new feeds get submitted to the public podcast directories (Apple Podcasts Connect, Spotify for Creators) so the shows are searchable by name, not just reachable by link. Submissions happen in Jimmy's accounts, at his word.
 - **Ledger's first construction run scheduled overnight** — its initial run (2026-10-20 ~23:46) completed onboarding (Job 1) and gathered the full slate + sources before the shared 5-hour usage window ran out (a parallel Codex project was drinking from the same window). A scheduled task resumes Ledger at 3:56 AM, just after the reset, to finish constructing the episode; it constructs and presents, never publishes. The live episode still comes from the 7 AM run.
 
 ## 2026-10-20 (later)
